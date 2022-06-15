@@ -1,0 +1,11 @@
+
+.header.Background::before{
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.header.Background::after{
+    background: #fff no-repeat center fixed;
+}
